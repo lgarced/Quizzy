@@ -1,30 +1,25 @@
 // list of all questions, choices, and answers
 var questions = [
   {
-    title: "Commonly used data types DO NOT include:",
-    choices: ["strings", "booleans", "alerts", "numbers"],
-    answer: "alerts",
+    title: "Why do some football players never sweat?:",
+    choices: ["deodorant", "water", "HUGE fans", "A/C"],
+    answer: "HUGE fans",
   },
   {
-    title: "The condition in an if / else statement is enclosed within ____.",
-    choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-    answer: "parentheses",
+    title: "What is in miiddle of Paris?",
+    choices: ["Eiffel Tower", "A baguette factory", "R", "A huge croissant"],
+    answer: "R",
   },
   {
-    title: "Arrays in JavaScript can be used to store ____.",
-    choices: [
-      "numbers and strings",
-      "other arrays",
-      "booleans",
-      "all of the above",
-    ],
-    answer: "all of the above",
+    title: "What is always coming, but never arrives?",
+    choices: ["Money", "Tomorrow", "Promises", "Nothing"],
+    answer: "Tomorrow",
   },
   {
     title:
-      "String values must be enclosed within ____ when being assigned to variables.",
-    choices: ["commas", "curly brackets", "quotes", "parentheses"],
-    answer: "quotes",
+      "If you are in a dark room with a candle, a wood stove and a gas lamp. You only have one match, so what do you light first?",
+    choices: ["Gas Lamp", "Candle", "The match", "Wood stove"],
+    answer: "The match",
   },
   {
     title:
@@ -32,5 +27,19 @@ var questions = [
     choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
     answer: "console.log",
   },
+  {
+    title: "Bay of Bengal is in which state??",
+    choices: ["Alabama", "Texas", "Liquid", "Maine"],
+    answer: "Liquid",
+  },
+  {
+    title: "What does come down but never goes up?",
+    choices: ["Gas Price", "Rain", "Weight", "Grade"],
+    answer: "Rain",
+  },
+  {
+    title: "What does everyone need, want, and ask for but never take?",
+    choices: ["Money", "Food", "Advice", "All of them"],
+    answer: "Advice",
+  },
 ];
-questions()
