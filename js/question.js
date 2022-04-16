@@ -22,12 +22,6 @@ var questions = [
     answer: "The match",
   },
   {
-    title:
-      "A very useful tool used during development and debugging for printing content to the debugger is:",
-    choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
-    answer: "console.log",
-  },
-  {
     title: "Bay of Bengal is in which state??",
     choices: ["Alabama", "Texas", "Liquid", "Maine"],
     answer: "Liquid",
