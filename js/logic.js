@@ -39,6 +39,7 @@ function getQuestion() {
 
   // update title with current question
   var titleEl = document.getElementById("question-title");
+  console.log("question-title")
   titleEl.textContent = currentQuestion.title;
 
   // clear out any old question choices
