@@ -40,7 +40,7 @@ var questions = [
   },
   {
     title:
-      "A pharmaceutical company develops a drug that inhibits the enzyme which catalyzes the formation of a"=
+      "A pharmaceutical company develops a drug that inhibits the enzyme which catalyzes the formation of a"+
 "phosphodiester bond between a 􀀖􀂶􀀐OH group of a nucleotide and a nucleoside monophosphate of a"+
 "polynucleotide with ATP hydrolysis. Which of the following enzymes is most likely inhibited by this drug?",
     choices: [
@@ -85,11 +85,21 @@ var questions = [
 "H: Docosahexaenoic acid",
 "I: Eicosapentaenoic acid"
     ],
-    answer: "Rain",
+    answer: "Alpha-linolenic acid",
   },
   {
-    title: "What does everyone need, want, and ask for but never take?",
-    choices: ["Money", "Food", "Advice", "All of them"],
-    answer: "Advice",
+    title: "A researcher is studying the structure of chromatin using electron microscopy. An example of one of these"+
+"images is shown which illustrates how DNA wraps around a group of proteins to form a nucleosome unit. The"+
+"amino acid composition of these proteins helps in their physiological function. Which of the following amino acid"+
+"residues most likely facilitates this interaction?"+
+"X",
+    choices: [
+    "A: Branched chain amino acids like leucine",
+"B: Negatively charged amino acids like aspartate",
+"C: Positively charged amino acids like lysine",
+"D: Thiol group containing amino acids like cysteine",
+"E: Hydroxyl group containing amino acids like serine",
+"F: Aromatic amino acids like phenylalanine"],
+    answer: "Positively charged amino acids like lysine",
   },
 ];
